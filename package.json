@@ -9,10 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@plasmicapp/cli": "^0.1.340",
     "@plasmicapp/loader-nextjs": "^1.0.404",
+    "@plasmicapp/react-web": "^0.2.394",
+    "@plasmicpkgs/antd5": "^0.0.296",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.250",
+    "@plasmicpkgs/plasmic-cms": "^0.0.288",
+    "@plasmicpkgs/plasmic-nav": "^0.0.193",
+    "@plasmicpkgs/plasmic-query": "^0.0.242",
+    "@plasmicpkgs/plasmic-tabs": "^0.0.64",
+    "@plasmicpkgs/react-aria": "^0.0.149",
+    "@plasmicpkgs/react-awesome-reveal": "^3.8.225",
+    "@plasmicpkgs/react-scroll-parallax": "^0.0.231",
+    "@plasmicpkgs/react-slick": "^0.0.244",
+    "@plasmicpkgs/react-youtube": "^7.13.227",
+    "copy-to-clipboard": "^3.3.3",
     "next": "14.2.8",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@types/node": "^20",
